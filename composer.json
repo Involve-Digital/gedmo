@@ -16,7 +16,7 @@
 		"nette/di": "^2.4|^3.0",
 		"nette/utils": "^2.4|^3.0",
 		"kdyby/events": "~3.0|~2.1",
-		"kdyby/doctrine": "~3.0|~2.0|~1.0",
+		"kdyby/doctrine": "~3.0|~2.0|~1.0|dev-connection-duplicity-2-issue",
 		"gedmo/doctrine-extensions": "^2.4"
 	},
 	"autoload": {
